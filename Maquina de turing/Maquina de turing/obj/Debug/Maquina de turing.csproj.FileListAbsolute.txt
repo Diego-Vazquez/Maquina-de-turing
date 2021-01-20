@@ -1,0 +1,9 @@
+c:\users\diego\documents\visual studio 2013\Projects\Maquina de turing\Maquina de turing\bin\Debug\Maquina de turing.exe.config
+c:\users\diego\documents\visual studio 2013\Projects\Maquina de turing\Maquina de turing\bin\Debug\Maquina de turing.exe
+c:\users\diego\documents\visual studio 2013\Projects\Maquina de turing\Maquina de turing\bin\Debug\Maquina de turing.pdb
+c:\users\diego\documents\visual studio 2013\Projects\Maquina de turing\Maquina de turing\obj\Debug\Maquina de turing.csprojResolveAssemblyReference.cache
+c:\users\diego\documents\visual studio 2013\Projects\Maquina de turing\Maquina de turing\obj\Debug\Maquina_de_turing.Form1.resources
+c:\users\diego\documents\visual studio 2013\Projects\Maquina de turing\Maquina de turing\obj\Debug\Maquina_de_turing.Properties.Resources.resources
+c:\users\diego\documents\visual studio 2013\Projects\Maquina de turing\Maquina de turing\obj\Debug\Maquina de turing.csproj.GenerateResource.Cache
+c:\users\diego\documents\visual studio 2013\Projects\Maquina de turing\Maquina de turing\obj\Debug\Maquina de turing.exe
+c:\users\diego\documents\visual studio 2013\Projects\Maquina de turing\Maquina de turing\obj\Debug\Maquina de turing.pdb
